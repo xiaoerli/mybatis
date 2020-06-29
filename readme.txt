@@ -4,3 +4,4 @@
 第三章：StatementHandler体系结构
 第四章：映射体系详解
 第五章：xml文件解析体系
+第六章：configuration配置文件体系解析
